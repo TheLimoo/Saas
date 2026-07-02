@@ -1,0 +1,6 @@
+{
+  "name": "VPN Config Distribution Panel",
+  "description": "A professional configuration distribution gateway where administrators upload pre-made VPN configurations and users retrieve them instantly for free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
